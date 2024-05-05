@@ -3,6 +3,7 @@
 <p align="center">
 <img src="./hengker.webp"/>
 <a align="center">
+- 🌱 I’m currently learning Artificial Intelligence and Python
 <!--
 **sirpps/sirpps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
