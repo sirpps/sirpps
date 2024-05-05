@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="./giphy (1).webp"/>
+<img src="./hengker.webp"/>
 <a align="center">
 <!--
 **sirpps/sirpps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
